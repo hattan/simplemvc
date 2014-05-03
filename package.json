@@ -1,0 +1,6 @@
+{
+  "name": "node-demo",
+  "devDependencies": {
+    "handlebars": "~2.0.0-alpha.1"
+  }
+}
